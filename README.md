@@ -9,9 +9,6 @@ $ pip install rich bs4
 $ pip install stdiomask
 $ pip install --upgrade pip
 $ git clone https://github.com/SAMIR-FIGHTER/SAMIR
-$ ls
-$ cd SAMIR
-$ python samir.py
 ```
 ## MAIN INSTALLATION
 ```php
